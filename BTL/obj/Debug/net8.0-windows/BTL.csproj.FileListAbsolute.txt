@@ -1,0 +1,107 @@
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.exe
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.deps.json
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.runtimeconfig.json
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.dll
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.pdb
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.Form1.resources
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.GenerateResource.cache
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfoInputs.cache
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfo.cs
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.CoreCompileInputs.cache
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.dll
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\refint\BTL.dll
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.pdb
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.genruntimeconfig.cache
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\ref\BTL.dll
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.Properties.Resources.resources
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.sourcelink.json
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.Find.resources
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.Replace.resources
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.DateAndTime.resources
+D:\C#\OU\BTL_LTGD\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.info.resources
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.dll
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\refint\BTL.dll
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.pdb
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.exe
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.deps.json
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.runtimeconfig.json
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.dll
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\bin\Debug\net8.0-windows\BTL.pdb
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.DateAndTime.resources
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.Find.resources
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.Form1.resources
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.info.resources
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.Properties.Resources.resources
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.Replace.resources
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.GenerateResource.cache
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfoInputs.cache
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfo.cs
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.CoreCompileInputs.cache
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.sourcelink.json
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\BTL.genruntimeconfig.cache
+C:\Users\BLUE\Downloads\BTL_LTGD_V2\BTL_LTGD_V2\BTL\BTL\obj\Debug\net8.0-windows\ref\BTL.dll
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\bin\Debug\net8.0-windows\BTL.exe
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\bin\Debug\net8.0-windows\BTL.deps.json
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\bin\Debug\net8.0-windows\BTL.runtimeconfig.json
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\bin\Debug\net8.0-windows\BTL.dll
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\bin\Debug\net8.0-windows\BTL.pdb
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.DateAndTime.resources
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.Find.resources
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.Form1.resources
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.info.resources
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.Properties.Resources.resources
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.Replace.resources
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.GenerateResource.cache
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfoInputs.cache
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfo.cs
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.CoreCompileInputs.cache
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.dll
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\refint\BTL.dll
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.pdb
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\BTL.genruntimeconfig.cache
+C:\Users\BLUE\Downloads\BTL (1)\BTL\BTL\obj\Debug\net8.0-windows\ref\BTL.dll
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\bin\Debug\net8.0-windows\BTL.exe
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\bin\Debug\net8.0-windows\BTL.deps.json
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\bin\Debug\net8.0-windows\BTL.runtimeconfig.json
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\bin\Debug\net8.0-windows\BTL.dll
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\bin\Debug\net8.0-windows\BTL.pdb
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.DateAndTime.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.Find.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.Form1.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.info.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.Properties.Resources.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.Replace.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.GenerateResource.cache
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfoInputs.cache
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfo.cs
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.CoreCompileInputs.cache
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.dll
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\refint\BTL.dll
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.pdb
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\BTL.genruntimeconfig.cache
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\BTL\obj\Debug\net8.0-windows\ref\BTL.dll
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\bin\Debug\net8.0-windows\BTL.exe
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\bin\Debug\net8.0-windows\BTL.deps.json
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\bin\Debug\net8.0-windows\BTL.runtimeconfig.json
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\bin\Debug\net8.0-windows\BTL.dll
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\bin\Debug\net8.0-windows\BTL.pdb
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.DateAndTime.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.Find.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.Form1.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.info.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.Properties.Resources.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.Replace.resources
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.GenerateResource.cache
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfoInputs.cache
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfo.cs
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.csproj.CoreCompileInputs.cache
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.dll
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\refint\BTL.dll
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.pdb
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\BTL.genruntimeconfig.cache
+C:\Users\BLUE\Downloads\2251012067_PhamNguyenTuanHung\BTL\BTL\obj\Debug\net8.0-windows\ref\BTL.dll
